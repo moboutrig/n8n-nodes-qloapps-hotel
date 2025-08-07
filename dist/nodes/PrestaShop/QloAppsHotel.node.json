@@ -1,0 +1,20 @@
+{
+    "node": "n8n-nodes-base.qloappsHotel",
+    "nodeVersion": "1.0",
+    "codexVersion": "1.0",
+    "categories": [
+        "Sales"
+    ],
+    "resources": {
+        "credentialDocumentation": [
+            {
+                "url": "https://devdocs.qloapps.com/webservice/"
+            }
+        ],
+        "primaryDocumentation": [
+            {
+                "url": "https://devdocs.qloapps.com/webservice/"
+            }
+        ]
+    }
+}
